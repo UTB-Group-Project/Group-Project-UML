@@ -1,0 +1,8 @@
+<title>
+[author]
+{genre}
+-icon address-
+=website=
+//All of the above must be at beginning and must be only thing at beginning of text.
+
+{this sentence is highlighted.} <---rest of document this means highlighted
